@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a passionate developer alw
 
 ## 🔭 Currently Working On
 - **[Cover-all](https://github.com/DomienDePauw/Cover-all)**: A WPF based program, using ADO.net and Generic host.
-- **[Another Project](https://github.com/DomienDePauw/another-project)**: Brief description of what the project does.
+- **[VooraadBeheer](https://github.com/DomienDePauw/VooraadBeheer.git)**: Group-assignment, making a webapplication using ADO.net,...
 
 ## 🌱 Currently Learning
 - **C#**
@@ -40,6 +40,9 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a passionate developer alw
 
 ### [Cover-all](https://github.com/DomienDePauw/Cover-all)
 ![Cover-all](https://github-readme-stats.vercel.app/api/pin/?username=DomienDePauw&repo=Cover-all&theme=radical)
+
+### [VooraadBeheer](https://github.com/DomienDePauw/VooraadBeheer)
+![VooraadBeheer](https://github-readme-stats.vercel.app/api/pin/?username=DomienDePauw&repo=VooraadBeheer&theme=radical)
 
 ---
 
