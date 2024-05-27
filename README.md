@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **Domien De Pauw**, a passionate developer always looking to learn and collaborate on exciting projects. 
+Welcome to my GitHub profile! I'm **Domien De Pauw**, a dedicated developer with a deep passion for C# and backend operations. I love diving into complex problems and building robust, scalable solutions. Whether it's architecting databases, optimizing server performance, or crafting elegant code, I'm always up for a challenge and eager to learn more.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DomienDePauw&color=brightgreen)
 
