@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a passionate developer alw
 ![Profile Views](https://komarev.com/ghpvc/?username=DomienDePauw&color=brightgreen)
 
 ## 🔭 Currently Working On
-- **[Project Name](https://github.com/DomienDePauw/project-name)**: Brief description of what the project does.
+- **[Cover-all](https://github.com/DomienDePauw/Cover-all)**: A WPF based program, using ADO.net and Generic host.
 - **[Another Project](https://github.com/DomienDePauw/another-project)**: Brief description of what the project does.
 
 ## 🌱 Currently Learning
@@ -38,11 +38,8 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a passionate developer alw
 
 ## 🗂️ Highlighted Repositories
 
-### [Project 1](https://github.com/DomienDePauw/Cover-all.git)
-![Project 1](https://github.com/DomienDePauw/Cover-all.git)
-
-### [Project 2](https://github.com/DomienDePauw/project-2)
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=DomienDePauw&repo=project-2&theme=radical)
+### [Cover-all](https://github.com/DomienDePauw/Cover-all)
+![Cover-all](https://github-readme-stats.vercel.app/api/pin/?username=DomienDePauw&repo=Cover-all&theme=radical)
 
 ---
 
