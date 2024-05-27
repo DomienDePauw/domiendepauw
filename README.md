@@ -9,18 +9,14 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a passionate developer alw
 - **[Another Project](https://github.com/DomienDePauw/another-project)**: Brief description of what the project does.
 
 ## 🌱 Currently Learning
-- **Technology 1**
-- **Technology 2**
-- **Technology 3**
+- **C#**
+- **Javascript**
+- **SQL**
 
 ## 👯 Looking to Collaborate On
 - Open source projects
 - Innovative ideas in tech
 - Community-driven projects
-
-## 🤔 Looking for Help With
-- [Project Name](https://github.com/DomienDePauw/project-name): Specific help needed.
-- [Another Project](https://github.com/DomienDePauw/another-project): Specific help needed.
 
 ## 💬 Ask Me About
 - Web development
@@ -28,15 +24,8 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a passionate developer alw
 - Anything tech-related!
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [domiendepauw@hotmail.com](mailto:domiendepauw@hotmail.com)
 - LinkedIn: [Domien De Pauw](https://www.linkedin.com/in/domiendepauw/)
-- Twitter: [@DomienDePauw](https://twitter.com/DomienDePauw)
-
-## 😄 Pronouns
-- He/Him
-
-## ⚡ Fun Fact
-- I love hiking and exploring new places!
 
 ## 📈 My WakaTime Stats
 [![WakaTime stats](https://wakatime.com/share/@DomienDePauw/34b83012-b6f9-4a5f-811d-7a3cf64736df.svg)](https://wakatime.com/@DomienDePauw)
@@ -49,8 +38,8 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a passionate developer alw
 
 ## 🗂️ Highlighted Repositories
 
-### [Project 1](https://github.com/DomienDePauw/project-1)
-![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=DomienDePauw&repo=project-1&theme=radical)
+### [Project 1](https://github.com/DomienDePauw/Cover-all.git)
+![Project 1](https://github.com/DomienDePauw/Cover-all.git)
 
 ### [Project 2](https://github.com/DomienDePauw/project-2)
 ![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=DomienDePauw&repo=project-2&theme=radical)
