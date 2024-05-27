@@ -30,6 +30,8 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a dedicated developer with
 ## 📈 My WakaTime Stats
 [![WakaTime stats](https://wakatime.com/share/@DomienDePauw/34b83012-b6f9-4a5f-811d-7a3cf64736df.svg)](https://wakatime.com/@DomienDePauw)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomienDePauw&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📊 GitHub Stats
 ![Domien's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomienDePauw&show_icons=true&theme=radical)
 
