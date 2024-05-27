@@ -1,8 +1,6 @@
 ### Hi there 👋
 
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<!--
+<figure><embed src="https://wakatime.com/share/@DomienDePauw/34b83012-b6f9-4a5f-811d-7a3cf64736df.svg"></embed></figure>
 **DomienDePauw/domiendepauw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
