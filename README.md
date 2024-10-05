@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a dedicated developer with
 - **C#**
 - **Javascript**
 - **SQL**
+- **React**
 
 ## 👯 Looking to Collaborate On
 - Open source projects
