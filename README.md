@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a dedicated developer with
 ![Profile Views](https://komarev.com/ghpvc/?username=DomienDePauw&color=brightgreen)
 
 ## 🔭 Currently Working On
-- **[Cover-all](https://github.com/DomienDePauw/Cover-all)**: A WPF based program, using ADO.net and Generic host.
+- **[Strips-Eindopdracht](https://github.com/DomienDePauw/StripsEindopdracht)**: EF CORE, ASP.NET CORE, WPF,...
 - **[VooraadBeheer](https://github.com/DomienDePauw/VooraadBeheer.git)**: Group-assignment, making a webapplication using ADO.net,...
 
 ## 🌱 Currently Learning
