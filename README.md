@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a dedicated developer with
 ![Profile Views](https://komarev.com/ghpvc/?username=DomienDePauw&color=brightgreen)
 
 ## 🔭 Currently Working At AZ St Lucas (Internship - Application Manager) 
-- **Technologies & Tools Used: Python, React, Django, HL7, FHIR,...
+- **Technologies & Tools Used:** Python, React, Django, HL7, FHIR,...
 
 ## 🌱 Currently Learning
 - **C#**
