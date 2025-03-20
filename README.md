@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a dedicated developer with
 ## 📈 My WakaTime Stats
 <a href="https://wakatime.com/@DomienDePauw">
   <img src="https://wakatime.com/share/@DomienDePauw/34b83012-b6f9-4a5f-811d-7a3cf64736df.svg" width="600" height="500">
-  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=DomienDePauw&layout=compact)](https://wakatime.com/@DomienDePauw)
 </a>
 
 ## 📊 GitHub Stats
