@@ -7,6 +7,11 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a dedicated developer with
 ## 🔭 Currently Working At AZ St-Lucas (Internship - Application Manager) 
 - **Technologies & Tools Used:** Python, React, TypeScript, Flask, HL7, FHIR,...
 
+## Tech Stack
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 ## 🌱 Currently Learning
 - **C#**
 - **React Native**
