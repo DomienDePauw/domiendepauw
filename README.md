@@ -31,10 +31,6 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a dedicated developer with
 - Email: [domiendepauw@hotmail.com](mailto:domiendepauw@hotmail.com)
 - LinkedIn: [Domien De Pauw](https://www.linkedin.com/in/domiendepauw/)
 
-## 📈 My WakaTime Stats
-<a href="https://wakatime.com/@DomienDePauw">
-  <img src="https://wakatime.com/share/@DomienDePauw/34b83012-b6f9-4a5f-811d-7a3cf64736df.svg" width="600" height="500">
-</a>
 ## 📈 My WakaTime Stats  
 <a href="https://wakatime.com/@DomienDePauw">
   <img src="https://wakatime.com/share/@DomienDePauw/9b2d4610-0e30-4581-9bcc-c54b342c3b35.svg" width="600">
