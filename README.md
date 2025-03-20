@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm **Domien De Pauw**, a dedicated developer with
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![CLI](https://img.shields.io/badge/-Command%20Line-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)  
 
 ## 🌱 Currently Learning
 - **C#**
