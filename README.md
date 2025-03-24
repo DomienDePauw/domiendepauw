@@ -9,7 +9,7 @@ I'm **Domien De Pauw**, a passionate **full-stack developer** with a strong focu
 - LinkedIn: [Domien De Pauw](https://www.linkedin.com/in/domiendepauw/)
 
 ## 🔭 Currently Working At AZ St-Lucas (Internship - Application Manager) 
-- **Technologies & Tools Used:** Python, React, TypeScript, Flask,...
+**Technologies & Tools Used:** Python, React, TypeScript, Flask,...
 
 💡 **What drives me?**  
 I have a deep interest in **big data**, **REST APIs**, and **cloud technologies**. I love working on projects that involve large-scale data processing, efficient API architectures, and cloud-based solutions.
